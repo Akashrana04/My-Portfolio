@@ -14,7 +14,7 @@ function Projects() {
             </div>
             <div className="project_div">
                 <Project 
-                    image={tsc}
+                    image={Interview-meet}
                     title="Interview-Meet Web Application"
                     line1="Host interactive coding session with candidates to accurately access thier technical skills."
                     line2="Here, this app chooses random question from our library."
@@ -25,7 +25,7 @@ function Projects() {
                     link="https://interview-meet.web.app/"
                 />
                 <Project 
-                    image={kcart}
+                    image={Myflix App}
                     title="Myflix Web Application"
                     line1="A Web application made for entertainment purpose."
                     line2="This is the clone web application of very popular OTT platform- NETFLIX."
@@ -34,6 +34,18 @@ function Projects() {
                     line5="It's database is managed on Firestore and is hosted on Netlify."
                     line6="Technologies - Reactjs, JavaScript, HTML, CSS, Firebase."
                     link="https://silver-screen-76c12.web.app/"
+                />
+                <Project 
+                    image={Covid 19}
+                    title="Covid 19 Leads (Web Application)"
+                    line1="A website where you can generate custom Twitter link of all the COVID-19 resources you want."
+                    line2="The motivation behind this website is Covid period faced by us. "
+                    line3="t also has a Vaccination Page where
+                    in you can search nearest vaccination centres."
+                    line4="It is hosted on Firebase."
+                    line5="It also make sure that avaiablity of the vaccination at that moment."
+                    line6="Technologies - Reactjs, JavaScript, HTML, CSS, Firebase."
+                    link="https://covid19leads.web.app/"
                 />
                 <Project 
                     image={port}
@@ -45,17 +57,6 @@ function Projects() {
                     line5="Have a look at it, and please feel free to contact anytime."
                     line6="Technologies - Reactjs, JavaScript, HTML, CSS, Firebase."
                     link="https://harshit-portfolio99.web.app/"
-                />
-                <Project 
-                    image={clg}
-                    title="College Website (Desktop Web App)"
-                    line1="This was the first project that I created when I started development."
-                    line2="This is a simple website where the students can see informations about"
-                    line3="a number of different branches that are available in our college."
-                    line4="This website is built on React using reusable components."
-                    line5="It is hosted on Firebase."
-                    line6="Technologies - Reactjs, JavaScript, HTML, CSS, Firebase."
-                    link="https://taks-b7f55.web.app/"
                 />
             </div>
         </div>

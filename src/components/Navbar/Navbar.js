@@ -1,11 +1,11 @@
 import React from 'react';
 import './Navbar.css';
-import resume from '../resume/HarshitResume.pdf';
+import resume from '../resume/AKASH_RANA_CV_UPDATED-1.pdf';
 import $ from 'jquery';
 
 function Navbar() {
 
-    var name = "<HC /> ";
+    var name = "<PortFolio > ";
 
     const about = () => {
         $('html,body').animate({
@@ -45,7 +45,7 @@ function Navbar() {
                 <p onClick={tools}>Tools</p>
                 <p onClick={experience}>Experience</p>
                 <p onClick={project}>Projects</p>
-                <p><a href={resume} download="HarshitChopra.pdf">Resume</a></p>
+                <p><a href={resume} download="AKASH_RANA_CV_UPDATED-1.pdf">Resume</a></p>
             </div>
         </div>
 

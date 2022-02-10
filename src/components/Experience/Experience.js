@@ -28,7 +28,7 @@ function Experience() {
 
             <div className="ex_card">
                 <ExperienceCard 
-                    title="Volunthere"
+                    title="Cognizant Technologies"
                     line1="> Responsible for architecturing and building the responsive front end of 3 websites on react with the team of 2 from scratch."
                     line2="> In this website the user can find various NGO's listings and can apply after registering to the website."
                     line3="> The user can also see, what NGOs they have applied to, got selected, rejected or application still pending to be reviewed."
@@ -44,12 +44,12 @@ function Experience() {
                     img8={material}
                 />
                 <ExperienceCard 
-                    title="Scholarlys"
-                    line1="> Single handedly designing and building a responsive website from scratch."
-                    line2="> In this website the user can browse through research papers of their interests."
-                    line3="> The user can login through Firebase's Google Auth and then start adding the keywords of the research papers they would like to see."
-                    line4="> Firestore is used as it's backend."
-                    line5="> It is hosted on Firebase."
+                    title="IBM"
+                    line1="> Worked as front end developer intern."
+                    line2="> Worked on an Web Applications based projects.."
+                    line3="> Managed application flow and created various new features."
+                    line4="> Fixed various bugs and worked on UI changes."
+                    line5="> Project was is hosted on Firebase."
                     img1={js}
                     img2={react}
                     img3={html}
@@ -59,20 +59,7 @@ function Experience() {
                     img7={github}
                     img8={material}
                 />
-                <ExperienceCard 
-                    title="Furnly"
-                    line1="> Single handedly designed and built a responsive ecommerce website from scratch on wordpress."
-                    line2="> In this website the user can browse and buy furnitures."
-                    line3="> Manually added Google Analytics on the website, and then analysed the user's data through it."
-                    line4="> Built and added various components by using html and css."
-                    line5=""
-                    img1={html}
-                    img2={css}
-                    img3={wordpress}
-                    img4={woo}
-                    img6={ga}
-                    img7={tm}
-                />
+                
             </div>
 
             
