@@ -1,9 +1,9 @@
 import React from 'react';
 import './Projects.css';
 import Project from './Project';
-import tsc from '../images/tsc.png';
-import kcart from '../images/kcart.png';
-import clg from '../images/clg.png';
+import imeet from '../images/imeet.png';
+import myflix from '../images/myflix.png';
+import cov from '../images/cov.png';
 import port from '../images/port.png';
 
 function Projects() {
@@ -14,7 +14,7 @@ function Projects() {
             </div>
             <div className="project_div">
                 <Project 
-                    image={Interview-meet}
+                    image={imeet}
                     title="Interview-Meet Web Application"
                     line1="Host interactive coding session with candidates to accurately access thier technical skills."
                     line2="Here, this app chooses random question from our library."
@@ -25,7 +25,7 @@ function Projects() {
                     link="https://interview-meet.web.app/"
                 />
                 <Project 
-                    image={Myflix App}
+                    image={myflix}
                     title="Myflix Web Application"
                     line1="A Web application made for entertainment purpose."
                     line2="This is the clone web application of very popular OTT platform- NETFLIX."
@@ -36,12 +36,11 @@ function Projects() {
                     link="https://silver-screen-76c12.web.app/"
                 />
                 <Project 
-                    image={Covid 19}
+                    image={cov}
                     title="Covid 19 Leads (Web Application)"
                     line1="A website where you can generate custom Twitter link of all the COVID-19 resources you want."
                     line2="The motivation behind this website is Covid period faced by us. "
-                    line3="t also has a Vaccination Page where
-                    in you can search nearest vaccination centres."
+                    line3="t also has a Vaccination Page where in you can search nearest vaccination centres."
                     line4="It is hosted on Firebase."
                     line5="It also make sure that avaiablity of the vaccination at that moment."
                     line6="Technologies - Reactjs, JavaScript, HTML, CSS, Firebase."
@@ -64,3 +63,4 @@ function Projects() {
 }
 
 export default Projects;
+

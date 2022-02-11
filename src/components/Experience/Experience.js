@@ -3,21 +3,19 @@ import './Experience.css';
 import react from '../images/react.svg';
 import html from '../images/html.svg';
 import css from '../images/css.svg';
-import c from '../images/c.png';
+
 import bootstrap from '../images/bootstrap.svg';
 import firebase from '../images/firebase.png';
 import github from '../images/github.svg';
 import js from '../images/js.png';
 import material from '../images/material.svg';
-import wordpress from '../images/wordpress.png';
-import woo from '../images/woo.svg';
-import ga from '../images/ga.png';
-import tm from '../images/tm.png';
+
+
 import ExperienceCard from './ExperienceCard';
 
 function Experience() {
 
-    var arrow = ">";
+    
 
     return (
         <div className="experience">

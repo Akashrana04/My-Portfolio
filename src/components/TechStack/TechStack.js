@@ -9,7 +9,7 @@ import html from '../images/html.svg';
 import js from '../images/js.png';
 import material from '../images/material.svg';
 import react from '../images/react.svg';
-import woo from '../images/woo.svg';
+
 import wordpress from '../images/wordpress.png';
 import ToolsImg from './ToolsImg';
 

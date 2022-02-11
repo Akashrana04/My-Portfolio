@@ -3,7 +3,7 @@ import './Banner.css';
 import linkedin from '../images/linkedin.png';
 import github from '../images/github.png';
 // import Typewriter from 'typewriter-effect/dist/core';
-import Typewriter from "typewriter-effect";
+
 
 function Banner() {
     return (
