@@ -4,7 +4,7 @@ import './ToolsImg.css';
 function ToolsImg({ img, name, link }) {
     return (
         <div>
-            <a className="tools_comp" href={link} target="_blank">
+            <a className="tools_comp" href={link}>
                 <div className="tools_comp_img">
                     <img src={img} alt="" />
                 </div>
