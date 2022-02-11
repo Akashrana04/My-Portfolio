@@ -55,7 +55,7 @@ function Projects() {
                     line4="It is hosted on Firebase."
                     line5="Have a look at it, and please feel free to contact anytime."
                     line6="Technologies - Reactjs, JavaScript, HTML, CSS, Firebase."
-                    link="https://harshit-portfolio99.web.app/"
+                    link="https://akashranaportfolio.web.app/"
                 />
             </div>
         </div>

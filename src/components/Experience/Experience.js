@@ -44,10 +44,10 @@ function Experience() {
                 <ExperienceCard 
                     title="IBM"
                     line1="> Worked as front end developer intern."
-                    line2="> Worked on an Web Applications based projects.."
-                    line3="> Managed application flow and created various new features."
-                    line4="> Fixed various bugs and worked on UI changes."
-                    line5="> Project was is hosted on Firebase."
+                    line2="> Responsible for handling minor and major UI changes"
+                    line3="> Managed application flow and created various new features, Also worked on responsiveness of project."
+                    line4="> Worked on various projects on techstack of ReactJS mainly, Other Technologies used are HTML, CSS, Bootstrap, Javascript."
+                    line5="> Project was hosted on Firebase."
                     img1={js}
                     img2={react}
                     img3={html}
