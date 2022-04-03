@@ -27,11 +27,12 @@ function Experience() {
             <div className="ex_card">
                 <ExperienceCard 
                     title="Cognizant Technologies"
-                    line1="> Responsible for architecturing and building the responsive front end of 3 websites on react with the team of 2 from scratch."
-                    line2="> In this website the user can find various NGO's listings and can apply after registering to the website."
-                    line3="> The user can also see, what NGOs they have applied to, got selected, rejected or application still pending to be reviewed."
-                    line4="> The website also has a user dashboard where they can upload their photo, resume and change their password, phone number or email."
-                    line5="> Manually tested sites in various browsers and mobile devices to ensure cross-platform compatibility and responsiveness."
+                    line1="> Quality Engineering and Assurance Service-line"
+                    line2="> Understanding Project requirements and its functionalies and involved in
+                    functional study of the applications."
+                    line3="> Preparing test data for functional and Regression testing."
+                    line4="> Manually tested sites in various browsers and mobile devices to ensure cross-platform compatibility and responsiveness."
+                    line5="> Tech Stack: Java, Selenium ,Javascript and MySQL"
                     img1={js}
                     img2={react}
                     img3={html}
