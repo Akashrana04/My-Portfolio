@@ -1,5 +1,6 @@
 import React from 'react';
 import './Navbar.css';
+import resume from '../resume/Akash_Resume_2022 (2).pdf';
 import $ from 'jquery';
 
 function Navbar() {
