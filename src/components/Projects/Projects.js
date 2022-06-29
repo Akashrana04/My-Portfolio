@@ -18,7 +18,7 @@ function Projects() {
                     title="Interview-Meet Web Application"
                     line1="Host interactive coding session with candidates to accurately access thier technical skills."
                     line2="Here, this app chooses random question from our library."
-                    line3="This provides the collabrative notepad for writing code"
+                    line3="This provides the collabrative notepad for the writing code"
                     line4="It also supports the Face to face video call."
                     line5="It's database is managed on Firestore and is hosted on Netlify. "
                     line6="Technologies - Reactjs, JavaScript, HTML, CSS, Firebase."
