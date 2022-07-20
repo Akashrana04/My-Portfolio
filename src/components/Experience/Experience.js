@@ -25,6 +25,22 @@ function Experience() {
 
 
             <div className="ex_card">
+            <ExperienceCard 
+                    title="ULA"
+                    line1="> Working at Ula as SDE 1."
+                    line2=">  Working on catalog, pricing & promotions related features in Ula web & app."
+                    line3="> Assisting the team for forecasting the pricing logistics across the services."
+                    line4="> Understanding Project requirements and its functionalities & implementing them as optimised solution.."
+                    line5="> Tech Stack: Java, Go-Lang, NodeJS & AWS"
+                    img1={js}
+                    img2={react}
+                    img3={html}
+                    img4={css}
+                    img5={firebase}
+                    img6={bootstrap}
+                    img7={github}
+                    img8={material}
+                />
                 <ExperienceCard 
                     title="Cognizant Technologies"
                     line1="> Quality Engineering and Assurance Service-line"

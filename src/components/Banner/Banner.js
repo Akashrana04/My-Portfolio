@@ -9,13 +9,13 @@ function Banner() {
     return (
         <div className="banner">
             <div className="banner_title1">
-                <p><span className="emerge">Hi,</span> my name is</p>
+                <p><span className="emerge">Hello,</span> My name is</p>
             </div>
             <div className="banner_title2">
                 <p>Akash Rana</p>
             </div>
             <div className="banner_desc1">
-                <p>I am an Programmer Analyst intern at <span className="emerge">Cognizant Technologies</span>.</p>
+                <p>I am a Software development Engineer 1 at <span className="emerge">Ula</span>.</p>
                 {/* <p>a passionate web developer, fascinated by the tech world.</p> */}
                 {/* <p>I am a passionate web developer, fascinated by the tech world.</p> */}
                 {/* <p>I am
@@ -33,12 +33,13 @@ function Banner() {
             </div>
             <div className="banner_desc2">
                 <p>
-                    I am a final year undergrad pursuing Electrical and Electronics Engineering.
-                    I have prior 6 months internship Experince at IBM.
-                    I love working on front end web development projects.<br />
+                    I am a 22'Graduate in major of Electrical and Electronics Communication Engineering.<br />
+                    I have prior 6 months internship Experince at Cognizant as SDET intern.<br />
+                    Also have 4 months experience at IBM as Frontend developer intern.<br />
+                    I love working on Backend related development and projects.<br />
                     I have developed <span className="emerge">3 real world websites</span> till now that are
                     currently being <span className="emerge">used by the people </span>.<br />
-                    I love solving Date structure and Algorithm problems using C++. 
+                    I love solving Date structure and Algorithm problems using C++ and Java. 
                 </p>
             </div>
             <div className="social_logo">
