@@ -26,12 +26,12 @@ function Experience() {
 
             <div className="ex_card">
             <ExperienceCard 
-                    title="ULA"
-                    line1="> Working at Ula as SDE 1."
-                    line2=">  Working on catalog, pricing & promotions related features in Ula web & app."
-                    line3="> Assisting the team for forecasting the pricing logistics across the services."
-                    line4="> Understanding Project requirements and its functionalities & implementing them as optimised solution.."
-                    line5="> Tech Stack: Java, Go-Lang, NodeJS & AWS"
+                    title="AJIO | Jio Platforms"
+                    line1="> Software Development Engineer-1"
+                    line2=">  Working with the backend team of AJIO."
+                    line3="> Building the design and features on very large scale with very high concurrency."
+                    line4="> Building the system for smooth and best user experience for users on AJIO web and app."
+                    line5="> Tech Stack: Java, Spring Boot, Node.js, MongoDB, Kafka, AWS, Redis and Git"
                     img1={js}
                     img2={react}
                     img3={html}
@@ -41,13 +41,30 @@ function Experience() {
                     img7={github}
                     img8={material}
                 />
+
+            <ExperienceCard 
+                    title="ULA"
+                    line1="> Software Development Engineer-1"
+                    line2=">  Responsible for handling Promo Management Service that deals with the application of coupons and promos to give discounts to customers or incentivise them to drive customer acquisition and retention. Responsible for handling all the development of features, enhancements and maintenance related to promo micro-service."
+                    line3="> Responsible for building a Dashboard end to end (frontend&backend)for resolving repeated oncall queries related to promos and coupons and reducing dependency on team."
+                    line4="> Tech Stack: Java, Spring Boot, Node.js, MongoDB, Go-lang, AWS, Redis and Git"
+                    img1={js}
+                    img2={react}
+                    img3={html}
+                    img4={css}
+                    img5={firebase}
+                    img6={bootstrap}
+                    img7={github}
+                    img8={material}
+                />
+
                 <ExperienceCard 
                     title="Cognizant Technologies"
-                    line1="> Quality Engineering and Assurance Service-line"
-                    line2="> Understanding Project requirements and its functionalies and involved in
-                    functional study of the applications."
-                    line3="> Preparing test data for functional and Regression testing."
-                    line4="> Manually tested sites in various browsers and mobile devices to ensure cross-platform compatibility and responsiveness."
+                    line1="> Software Engineer intern"
+                    line2="> Understanding Project requirements and their functionalities and being involved in the functional study of the Applications."
+                    line3="> Helped in unit testing for multiple platforms like practo.com and maruti.com etc.
+                    "
+                    line4="> Assisted team in integration and regression testing for internal team developments."
                     line5="> Tech Stack: Java, Selenium ,Javascript and MySQL"
                     img1={js}
                     img2={react}
@@ -58,9 +75,10 @@ function Experience() {
                     img7={github}
                     img8={material}
                 />
+
                 <ExperienceCard 
                     title="IBM"
-                    line1="> Worked as front end developer intern."
+                    line1="> Frontend Developer intern"
                     line2="> Responsible for handling minor and major UI changes"
                     line3="> Managed application flow and created various new features, Also worked on responsiveness of project."
                     line4="> Worked on various projects on techstack of ReactJS mainly, Other Technologies used are HTML, CSS, Bootstrap, Javascript."

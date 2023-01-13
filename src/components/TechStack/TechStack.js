@@ -22,12 +22,12 @@ function TechStack() {
             <div className="ts_images">
                 <ToolsImg img={react} name="react" link="https://reactjs.org/docs/getting-started.html" />
                 <ToolsImg img={js} name="JavaScript" link="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators#iterators" />
-                <ToolsImg img={html} name="HTML 5" link="https://dev.w3.org/html5/html-author/" />
-                <ToolsImg img={css} name="CSS 3" link="https://devdocs.io/css/" />
+                <ToolsImg img={html}    name="HTML 5" link="https://dev.w3.org/html5/html-author/" />
+                <ToolsImg img={  css} name="CSS 3" link="https://devdocs.io/css/" />
                 <ToolsImg img={firebase} name="firebase" link="https://firebase.google.com/docs/guides" />
                 <ToolsImg img={c} name="c++" link="https://www.w3schools.com/cpp/cpp_intro.asp" />
                 <ToolsImg img={github} name="github" link="https://docs.github.com/en/github" />
-                <ToolsImg img={bootstrap} name="bootstrap" link="https://getbootstrap.com/docs/5.0/getting-started/introduction/" />
+                    <ToolsImg img={bootstrap} name="bootstrap" link="https://getbootstrap.com/docs/5.0/getting-started/introduction/" />
                 <ToolsImg img={material} name="material UI" link="https://material-ui.com/getting-started/installation/" />
                 <ToolsImg img={wordpress} name="wordpress" />
                 {/* <img src={bootstrap} alt="" />

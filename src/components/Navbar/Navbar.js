@@ -45,7 +45,7 @@ function Navbar() {
                 <p onClick={tools}>Tools</p>
                 <p onClick={experience}>Experience</p>
                 <p onClick={project}>Projects</p>
-                <p><a href="https://drive.google.com/file/d/1vH4GYAymlyfn_sb9bkOIzRWJ-2h1jJe5/view" target="_blank">Resume</a></p>
+                <p><a href="https://drive.google.com/file/d/14N7MbC4h6S_W5ZobEpXkQsuNEpQYqyzh/view" target="_blank">Resume</a></p>
             </div>
         </div>
 

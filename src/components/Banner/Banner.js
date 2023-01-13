@@ -15,7 +15,7 @@ function Banner() {
                 <p>Akash Rana</p>
             </div>
             <div className="banner_desc1">
-                <p>I am a Software development Engineer 1 at <span className="emerge">Ula</span>.</p>
+                <p>I am a SDE-1 at <span className="emerge">AJIO (Jio Platforms)</span>.</p>
                 {/* <p>a passionate web developer, fascinated by the tech world.</p> */}
                 {/* <p>I am a passionate web developer, fascinated by the tech world.</p> */}
                 {/* <p>I am
@@ -33,13 +33,15 @@ function Banner() {
             </div>
             <div className="banner_desc2">
                 <p>
-                    I am a 22'Graduate in major of Electrical and Electronics Communication Engineering.<br />
-                    I have prior 6 months internship Experince at Cognizant as SDET intern.<br />
+                    I am a Graduated in major of Electronics and Communication Engineering.<br />
+                    I have prior 6 months Full time Experience at Ula as SDE-1 Backend<br />
+                    I have prior 6 months internship Experience at Cognizant as Software Engineer intern.<br />
                     Also have 4 months experience at IBM as Frontend developer intern.<br />
-                    I love working on Backend related development and projects.<br />
+                    I love working on high scale projects and also fascinated about real-life system designing probelms.<br />
+                    I love to solve data structure and Algorithm based problems.<br />
                     I have developed <span className="emerge">3 real world websites</span> till now that are
                     currently being <span className="emerge">used by the people </span>.<br />
-                    I love solving Date structure and Algorithm problems using C++ and Java. 
+                    Tech Stack i worked on- Spring Boot · Redis · MongoDB · Java · TypeScript · Go (Programming Language) · Amazon Web Services (AWS) · MySQL · Node.js JavaScript · Apache POI and POM · Selenium<br />
                 </p>
             </div>
             <div className="social_logo">
