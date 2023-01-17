@@ -34,7 +34,7 @@ function Banner() {
             <div className="banner_desc2">
                 <p>
                     I am a Graduated in major of Electronics and Communication Engineering.<br />
-                    I have prior 6 months Full time Experience at Ula as SDE-1<br />
+                    I have prior 6 months Full time Experience at Ula as SDE-1.<br />
                     I have prior 6 months internship Experience at Cognizant as Software Engineer intern.<br />
                     Also have 4 months experience at IBM as Frontend developer intern.<br />
                     I love working on high scale projects and also fascinated about real-life system designing probelms.<br />
