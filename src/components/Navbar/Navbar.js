@@ -40,7 +40,7 @@ function Navbar() {
                 <p>{name}</p>
             </div>
             <div className="nav_right">
-                <p onClick={about}>About</p>
+                <p onClick={about}>About Me</p>
                 <p onClick={tools}>Tools</p>
                 <p onClick={experience}>Experience</p>
                 <p onClick={project}>Projects</p>
