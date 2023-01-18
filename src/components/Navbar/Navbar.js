@@ -1,6 +1,5 @@
 import React from 'react';
 import './Navbar.css';
-import resume from '../resume/Akash_Resume_2022 (6).pdf';
 import $ from 'jquery';
 
 function Navbar() {
@@ -45,7 +44,7 @@ function Navbar() {
                 <p onClick={tools}>Tools</p>
                 <p onClick={experience}>Experience</p>
                 <p onClick={project}>Projects</p>
-                <p><a href="https://drive.google.com/file/d/14N7MbC4h6S_W5ZobEpXkQsuNEpQYqyzh/view" target="_blank">Resume</a></p>
+                <p><a href="https://drive.google.com/file/d/14N7MbC4h6S_W5ZobEpXkQsuNEpQYqyzh/view">Resume</a></p>
             </div>
         </div>
 
