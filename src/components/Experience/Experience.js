@@ -26,12 +26,16 @@ function Experience() {
 
             <div className="ex_card">
             <ExperienceCard 
-                    title="AJIO | Jio Platforms"
-                    line1="> Software Development Engineer-1"
-                    line2=">  Working with the backend team of AJIO."
-                    line3="> Building the design and features on very large scale with very high concurrency."
-                    line4="> Building the system for smooth and best user experience for users on AJIO web and app."
-                    line5="> Tech Stack: Java, Spring Boot, Node.js, MongoDB, Kafka, AWS, Redis and Git"
+                    title="AJIO.com"
+                    line1="> Working with Search team for AJIO web and app."
+                    line2=">  Building the Microservices from scratch which previously onboarded on
+                     SAP Hybris to reduce functional dependency."
+                    line3="> Building the Multi-Keyword Search feature in Search which turned out to be
+                    90% more accurate."
+                    line4="> Building Auto-Suggestion feature forimproving User Experience while
+                    Searching, Also Implemented API’s that provides control over Kafka Consumers from
+                    Upstream Services."
+                    line5="> Tech Stack: Java, Spring Boot, Apache Solr, MongoDB, Kafka, Azure, Redis and Jenkins"
                     img1={js}
                     img2={react}
                     img3={html}
@@ -43,11 +47,10 @@ function Experience() {
                 />
 
             <ExperienceCard 
-                    title="ULA"
-                    line1="> Software Development Engineer-1"
-                    line2=">  Responsible for handling Promo Management Service that deals with the application of coupons and promos to give discounts to customers or incentivise them to drive customer acquisition and retention. Responsible for handling all the development of features, enhancements and maintenance related to promo micro-service."
-                    line3="> Responsible for building a Dashboard end to end (frontend&backend)for resolving repeated oncall queries related to promos and coupons and reducing dependency on team."
-                    line4="> Tech Stack: Java, Spring Boot, Node.js, MongoDB, Go-lang, AWS, Redis and Git"
+                    title="Ula"
+                    line1=">  Responsible for handling Promo Management Service that deals with the application of coupons and promos to give discounts to customers or incentivise them to drive customer acquisition and retention. Responsible for handling all the development of features, enhancements and maintenance related to promo micro-service."
+                    line2="> Responsible for building a Dashboard end to end (frontend&backend)for resolving repeated oncall queries related to promos and coupons and reducing dependency on team."
+                    line3="> Tech Stack: Java, Spring Boot, Node.js, MongoDB, Go-lang, AWS, Redis and Git"
                     img1={js}
                     img2={react}
                     img3={html}
