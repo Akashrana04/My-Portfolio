@@ -15,7 +15,7 @@ function Banner() {
                 <p>Akash Rana</p>
             </div>
             <div className="banner_desc1">
-                <p>I am a Software Engineer at <span className="emerge">AJIO.com (Jio Platforms)</span>.</p>
+                <p>I am a Software Engineer at <span className="emerge">AJIO.com </span>(Jio Platforms).</p>
                 {/* <p>a passionate web developer, fascinated by the tech world.</p> */}
                 {/* <p>I am a passionate web developer, fascinated by the tech world.</p> */}
                 {/* <p>I am
